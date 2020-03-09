@@ -13,19 +13,18 @@ Please write a report illustrating your experiments. You need to explain your ba
 In the report, you should include the answers to the following questions.
 
 1) Explanation of the source code:
-What are the functions of your lambda functions?
-Which kind of intermediate results are generated?
+- What are the functions of your lambda functions?
+- Which kind of intermediate results are generated?
 
 2) Experimental Results
-Screenshots of the key steps. For example, the screenshot for the outputs in the terminal when you run the command.
-It will demonstrate that your program has no bug.
+Screenshots of the key steps. For example, the screenshot for the outputs in the terminal when you run the command. It will demonstrate that your program has no bug.
 
 2.2) Explain your results. Does your implementation give the exact Caesar Cypher values?
 
 Submission Materials:
 
-a) Your report
-b) Source code (link to .py/.scala file in GitHub or BitBucket)
-c) The outputs in the terminal (Intermediate results)
-d) The output file of your program (Decrypted document values using the .saveAsTextFile command )
-e) The name of the source each file came from
+- Your report
+- Source code (link to .py/.scala file in GitHub or BitBucket)
+- The outputs in the terminal (Intermediate results)
+- The output file of your program (Decrypted document values using the .saveAsTextFile command )
+- The name of the source each file came from
